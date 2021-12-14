@@ -32,7 +32,7 @@ This directory contains 3 files
 
 ---
 
-# ** Data Acquisition & Description**
+# **Data Acquisition & Description**
 ---
 
 - This section is emphasised on the accquiring the data and obtain some descriptive information out of it.
